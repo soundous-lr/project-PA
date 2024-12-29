@@ -26,21 +26,6 @@ Book books[MAX_BOOKS];
 int userCount = 0;
 int bookCount = 0;
 
-// Prototypes des fonctions
-void loadUsers();
-void saveUsers();
-void registerUser();
-int loginUser(char *username, char *password);
-void addUser(User user);
-void loadBooks();
-void saveBooks();
-void addBook();
-void viewBooks();
-void deleteBook();
-void borrowBook();
-void adminMenu();
-void memberMenu();
-
 void loadUsers() {
     FILE *file = fopen(USER_FILE, "r");
     if (file == NULL) {
