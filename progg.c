@@ -25,8 +25,10 @@ User users[MAX_USERS];
 Book books[MAX_BOOKS];
 int userCount = 0;
 int bookCount = 0;
+void addUser(User user);
 
 void loadUsers() {
+	
     FILE *file = fopen(USER_FILE, "r");
     if (file == NULL) {
         printf("No users file found. Starting fresh.\n");

@@ -1,0 +1,50 @@
+1 C Language 200.00 18
+2 Python Programming 150.00 20
+3 Java Fundamentals 180.00 15
+4 Data Structures 210.00 10
+5 Algorithms Unlocked 220.00 8
+6 Machine Learning 250.00 12
+7 Artificial Intelligence 300.00 5
+8 Web Development 190.00 25
+9 Database Systems 230.00 7
+10 Computer Networks 210.00 9
+11 Operating Systems 250.00 14
+12 Software Engineering 240.00 11
+13 Cloud Computing 260.00 13
+14 Cyber Security 270.00 6
+15 Digital Marketing 180.00 22
+16 Mobile App Development 200.00 17
+17 Blockchain Basics 220.00 8
+18 Internet of Things 230.00 10
+19 Data Science 280.00 9
+20 Big Data Analytics 290.00 4
+21 DevOps Handbook 210.00 16
+22 Agile Methodologies 200.00 19
+23 UX/UI Design 190.00 20
+24 Computer Graphics 230.00 8
+25 Game Development 240.00 7
+26 Embedded Systems 220.00 10
+27 Quantum Computing 300.00 3
+28 Robotics 310.00 6
+29 Ethical Hacking 260.00 9
+30 Artificial Neural Networks 270.00 5
+31 Deep Learning 280.00 4
+32 Natural Language Processing 290.00 7
+33 Virtual Reality 250.00 8
+34 Augmented Reality 240.00 11
+35 Human-Computer Interaction 230.00 12
+36 Compiler Design 220.00 9
+37 Parallel Computing 260.00 5
+38 Distributed Systems 270.00 6
+39 Cryptography 280.00 7
+40 Information Retrieval 250.00 8
+41 Software Testing 210.00 14
+42 IT Project Management 200.00 15
+43 Systems Analysis 220.00 11
+44 Cloud Security 260.00 6
+45 Digital Forensics 270.00 7
+46 Bioinformatics 280.00 4
+47 Computational Biology 290.00 5
+48 Data Mining 220.00 9
+49 Information Systems 230.00 10
+50 IT Governance 240.00 8
